@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+/* 블럭 1번 */
+.box1{
+    width: 100%;
+    height: 686px;
+    background-image: url(img/01_back.png);
+    background-position: center;
+    background-size: cover;
+}
+.con1{
+    width: 1100px;
+    height: 686px;
+    margin: 0 auto;
+    position: relative;
+}
+.img01{
+    display: block;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+.img02{
+    display: block;
+    position: absolute;
+    top: 245px;
+    right: 0px;
+}
+/* 블럭 2번 */
+.box2{
+    width: 100%;
+    height: 185px;
+    background-color: #FCDDE5;
+}
+.con2{
+    width: 1920px;
+    height: 185px;
+    margin: 0 auto;
+    position: relative;
+}
+.img03{
+    display: block;
+    position: absolute;
+    top: 20px;
+}
+/* 블럭 3번 */
+.box3{
+    width: 100%;
+    height: 2770px;
+    background-image: url(img/03_back.png);
+    background-position: center;
+    background-size: cover;
+}
+.con3{
+    width: 1100px;
+    height: 2770px;
+    margin: 0 auto;
+    position: relative;
+}
+.img06{
+    display: block;
+    position: absolute;
+    top: 561.8px;
+    left: 0px;
+}
+.img07{
+    display: block;
+    position: absolute;
+    top: 264px;
+    left: -410px;
+}
+.img08{
+    display: block;
+    position: absolute;
+    top: 368px;
+    right: -410px;
+}
+.img09{
+    display: block;
+    position: absolute;
+    top: 654px;
+    right: -380px;
+}
+.txt1{
+    width: 604px;
+    height: 162px;
+    font-family: "Noto Sans KR";
+    font-weight: 300;
+    font-size: 33px;
+    line-height: 57px;
+    letter-spacing: -3px;
+    color: #484848;
+    text-align: center;
+    position: absolute;
+    top: 180px;
+    left: 248px;
+}
+.txt2{
+    width: 386px;
+    height: 182px;
+    font-family: "Noto Sans KR";
+    font-weight: 500;
+    font-size: 37px;
+    line-height: 64px;
+    letter-spacing: -3px;
+    color: #D39897;
+    text-align: center;
+    top: 929.8px;
+    right: 0px;
+    position: absolute;
+}
+/* 블럭 4번 */
+.box4{
+    width: 100%;
+    height: 62px;
+    background-color:white
+}
+/* 블럭 5번 */
+.box5{
+    width: 100%;
+    height: 1382px;
+    background-image: url(img/06_back.png);
+    background-position: center;
+    background-size: cover;
+}
+.con4{
+    width: 1100px;
+    height: 1382px;
+    margin: 0 auto;
+    position: relative;
+}
+.img10{
+    display: block;
+    position: absolute;
+    top: 33px;
+    left: 476px;
+}
+.img11{
+    display: block;
+    position: absolute;
+    top: 281px;
+    left: 0px;
+}
+.txt3{
+    width: 300px;
+    height: 105px;
+    font-family: "Noto Sans KR";
+    font-weight: 300;
+    font-size: 33px;
+    line-height: 57px;
+    letter-spacing: -3px;
+    color: #484848;
+    text-align: center;
+    position: absolute;
+    left: -347px;
+    top: 730px;
+}
+.txt4{
+    width: 328px;
+    height: 105px;
+    font-family: "Noto Sans KR";
+    font-weight: 300;
+    font-size: 33px;
+    line-height: 57px;
+    letter-spacing: -3px;
+    color: #484848;
+    text-align: center;
+    position: absolute;
+    right: -369px;
+    top: 1027px;
+}
+.txt5{
+    width: 272px;
+    height: 105px;
+    font-family: "Noto Sans KR";
+    font-weight: 300;
+    font-size: 33px;
+    line-height: 57px;
+    letter-spacing: -3px;
+    color: #484848;
+    text-align: center;
+    position: absolute;
+    right: 414px;
+    top: 1219px;
+}
+/* 블럭 6번 */
+.box6{
+    width: 100%;
+    height: 235px;
+    background-color: #FCDDE5;
+}
+.con5{
+    width: 1100px;
+    height: 235px;
+    margin: 0 auto;
+    position: relative;
+}
+.img12{
+    display: block;
+    position: absolute;
+    top: 44px;
+    left: 400px;
+}
+
+
+
+
+
+
+
+
